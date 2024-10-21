@@ -10,7 +10,7 @@ export function GifGrid({ category }) {
           <h2>Cargando, por favor espere</h2>
           <img
             className="w-32 h-32 animate-spin"
-            src="/loading.svg"
+            src="./loading.svg"
             alt="loading"
           />
         </div>
